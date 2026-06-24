@@ -1,20 +1,3 @@
 # HTML_CSS_PROJECT
-HTML &amp; CSS mini project 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS Properties</title>
-    <link rel="stylesheet" href="simileQUE.css"/>
-</head>
-<body>
- <div class="face">
-    <div class="mouth"></div>
-    <div class="eyes">
-        <div class="left-eye"></div>
-        <div class="right-eye"></div>
-    </div>
- </div>   
-</body>
-</html>
+<b>HTML &amp; CSS mini project </b>
+
